@@ -1,0 +1,14 @@
+{
+  "name": "slackvis",
+  "version": "0.0.0",
+  "description": "Visualize Slack RTM data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Digital Surgeons",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/rtm-api": "^5.0.2"
+  }
+}
